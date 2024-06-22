@@ -1,0 +1,25 @@
+[
+ {
+  "align": "Left",
+  "content": "<div style=\"text-align: left;\">\n<img src=\"/files/header-tccb.jpg\" alt=\"TCB\" height=\"\" style=\"height: px;\">\n</div>",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": "<div style=\"text-align: left;\">\n<img src=\"/files/head (1).png\" alt=\"TCB\" height=\"\" style=\"height: px;\">\n</div>",
+  "footer_align": "Left",
+  "footer_image": "/files/head (1).png",
+  "footer_image_height": 0.0,
+  "footer_image_width": 0.0,
+  "footer_script": null,
+  "footer_source": "Image",
+  "header_script": null,
+  "image": "/files/header-tccb.jpg",
+  "image_height": 0.0,
+  "image_width": 0.0,
+  "is_default": 1,
+  "letter_head_name": "TCB",
+  "modified": "2024-06-21 14:54:21.993007",
+  "name": "TCB",
+  "source": "Image"
+ }
+]
